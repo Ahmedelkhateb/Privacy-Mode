@@ -52,4 +52,6 @@ When Windows reports that the session has been unlocked, the utility clears the 
 
 ## License
 
-No license has been specified for this repository yet. All rights are reserved by default unless the repository owner adds a license.
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for the full license text.
+
+Copyright (c) 2026 Ahmed Elkhateb.
